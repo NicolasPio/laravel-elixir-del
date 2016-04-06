@@ -1,0 +1,25 @@
+{
+  "name": "laravel-elixir-del",
+  "version": "0.1.0",
+  "description": "Delete files and folders in your Laravel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasPio/laravel-elixir-del.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "remove",
+    "delete"
+  ],
+  "author": "Nicolas Pio <nicolaspiof@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasPio/laravel-elixir-del/issues"
+  },
+  "homepage": "https://github.com/NicolasPio/laravel-elixir-del#readme"
+}
