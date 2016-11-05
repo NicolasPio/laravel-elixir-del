@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-del",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Delete files and folders in your Laravel project",
   "main": "index.js",
   "scripts": {
